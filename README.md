@@ -7,7 +7,7 @@ Some image tools for computer science. Created by Nathan Galley in 2022.
 ------------
 Converts an image file into a binary text file and shows a preview.
 
-[![Car](github.com "Car")](https://github.com/Nbobito/imagepython/blob/master/example.png?raw=true "car[![Car](https://github.com/Nbobito/imagepython/blob/master/example.png?raw=true "Car")](https://github.com/Nbobito/imagepython/blob/master/example.png?raw=true "Car")")
+[![Car](https://github.com/Nbobito/imagepython/blob/master/example.png?raw=true "Car")](https://github.com/Nbobito/imagepython/blob/master/example.png "Car")
 
 To do threshold based conversion, uncomment the lines you need.
 ```python
